@@ -1,0 +1,1 @@
+{"version":3,"file":"CertificateError.js","sourceRoot":"","sources":["../../../src/shared/errors/CertificateError.ts"],"names":[],"mappings":";;;AAAA,yCAAsC;AAEtC,MAAa,gBAAiB,SAAQ,mBAAQ;IAC5C,YAAY,OAAe,EAAE,KAAa;QACxC,KAAK,CAAC,OAAO,EAAE,KAAK,CAAC,CAAC;QACtB,IAAI,CAAC,IAAI,GAAG,kBAAkB,CAAC;IACjC,CAAC;CACF;AALD,4CAKC"}

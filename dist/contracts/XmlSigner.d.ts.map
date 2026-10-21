@@ -1,0 +1,1 @@
+{"version":3,"file":"XmlSigner.d.ts","sourceRoot":"","sources":["../../src/contracts/XmlSigner.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,uBAAuB,CAAC;AAExD,MAAM,WAAW,SAAS;IACxB,IAAI,CAAC,GAAG,EAAE,MAAM,EAAE,WAAW,EAAE,eAAe,GAAG,MAAM,CAAC;CACzD"}

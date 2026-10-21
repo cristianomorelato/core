@@ -1,0 +1,1 @@
+{"version":3,"file":"SefazRejectError.d.ts","sourceRoot":"","sources":["../../../src/shared/errors/SefazRejectError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,YAAY,CAAC;AAEtC,qBAAa,gBAAiB,SAAQ,QAAQ;aAE1B,KAAK,EAAE,MAAM;aACb,OAAO,EAAE,MAAM;aACf,EAAE,CAAC,EAAE,MAAM;gBAFX,KAAK,EAAE,MAAM,EACb,OAAO,EAAE,MAAM,EACf,EAAE,CAAC,EAAE,MAAM,YAAA;CAK9B"}

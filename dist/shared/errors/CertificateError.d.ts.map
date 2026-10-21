@@ -1,0 +1,1 @@
+{"version":3,"file":"CertificateError.d.ts","sourceRoot":"","sources":["../../../src/shared/errors/CertificateError.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,YAAY,CAAC;AAEtC,qBAAa,gBAAiB,SAAQ,QAAQ;gBAChC,OAAO,EAAE,MAAM,EAAE,KAAK,CAAC,EAAE,KAAK;CAI3C"}
